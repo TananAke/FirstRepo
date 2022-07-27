@@ -692,7 +692,5 @@ class MyCustomForm extends StatelessWidget {
         ),
       ],
     );
-    //print(_MyHomePageState().qtyController.text);
-    //print(_MyHomePageState().costController.text);
   }
 }
